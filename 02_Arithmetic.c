@@ -1,7 +1,6 @@
   #include<stdio.h>
 int main(){
-<<<<<<< HEAD:02_Arithmetic.c
-  int number1, number2;
+int number1, number2;
   printf("enter number 1:");
   scanf("%d", &number1);
    

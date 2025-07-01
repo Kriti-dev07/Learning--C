@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+// this fis a marks calculator which calculates total, average, rounded and grades
     // declaring Variables
    
       int class=12;
