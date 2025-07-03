@@ -5,7 +5,6 @@ int main(){
    
       int class=12;
         char section='B' ;
-          
 
 
 //Printing Info

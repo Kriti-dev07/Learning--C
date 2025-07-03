@@ -31,8 +31,3 @@ printf("Multiplication: %f*%f=%f \n", num1,num2,num1*num2);
 printf("subtraction: %f-%f=%f \n", num1,num2,num1-num2);
 return 0  ; 
 }
-=======
-printf("Hello Github!\n"); //finally made it through gitbash and gitub
- return 0  ; 
-}
->>>>>>> 22de2012c6302aead0f44e763851aa343aa6dace:Basic-C/02_Arithmetic.c
