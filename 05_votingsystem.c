@@ -41,7 +41,7 @@ else if ( registered == 'Y' || registered == 'y') {
 
 else {
     printf("invalid");
-    return 0;
+    return 1;
 }
 
 
