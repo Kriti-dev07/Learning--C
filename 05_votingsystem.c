@@ -41,7 +41,7 @@ else if ( registered == 'Y' || registered == 'y') {
 
 else {
     printf("invalid");
-    return 0;
+    return 1;
 }
 
 
@@ -51,6 +51,7 @@ printf("1 for yes \n ");
 printf("2 for no \n ");
 printf("Enter choice : ");
 scanf ("%d", &choice);
+
 switch(choice){
     case 1:
     printf("Great! every vote matter . You should proceed to vote\n");
